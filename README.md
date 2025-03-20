@@ -1,5 +1,8 @@
 # bank_app
 
+In this project, firstly, i made the assets folder and add the accounts and transactions file inside of it. after that in the lib directory, i made 3 dart files named welcome screen, accounts screen, transactions screen and then write the code inside of it. do some changes in the pubspec.yaml also. 
+this project is overall done by me (Nancy).
+
 A new Flutter project.
 
 ## Getting Started
